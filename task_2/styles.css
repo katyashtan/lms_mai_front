@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+  background-color: aqua;
+}
+main {
+  display: flex;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+footer {
+  font-size: small;
+  text-align: center;
+  margin-top: 500px;
+}
